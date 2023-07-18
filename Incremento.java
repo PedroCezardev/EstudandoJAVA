@@ -1,6 +1,5 @@
 // Código para incrementar e decrementar números nas variáveis em java.
 
-
 import java.util.Scanner;
 
 public class Incremento
@@ -25,7 +24,8 @@ public class Incremento
 	   
 	   // lembrando que para decrementar é a mesma lógica, porém com o sinal de negativo "--".
 	    
-		
-		
+	   // São Operadores especiais que você utiliza para aumentar ou diminuir um valor armazenado em uma variável em uma unidade.
+	  // Utilizamos Operadores de Incremento e Decremento para que noso código fique conciso e mais legível.
+
 	}
 }
